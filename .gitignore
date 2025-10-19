@@ -1,0 +1,4 @@
+config_key.json
+.idea
+__pycache__/
+*.wav
